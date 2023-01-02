@@ -2,8 +2,8 @@
 
 | S. No. | Problem | Problem Link | Status |
 | ------ |:---:| --- | --- |
-| 1 | You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation. | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |   |
-| 2 | Combination Sum with a twist. | [Link](https://leetcode.com/problems/combination-sum-iii/) |   |
+| 1 | You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation. | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | ✅ |
+| 2 | Combination Sum with a twist. | [Link](https://leetcode.com/problems/combination-sum-iii/) | ✅ |
 | 3 | Bulls and Cows | [Link](https://leetcode.com/problems/bulls-and-cows/) | ✅ |
 | 4 | You are given an integer array nums of length n. Return maximum length of Rotation Function. | [Link](https://leetcode.com/problems/rotate-function/) |   |
 | 5 | Largest Divisible Subset. | [Link](https://leetcode.com/problems/largest-divisible-subset/) |   |

@@ -14,7 +14,7 @@
 | 10 | Shortest Unsorted continuous Subarray | [Link](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) |   |
 | 11 | Number of ways to arrive at a Destination. | [Link](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) |   |
 | 12 | Longest Happy Prefix | [Link](https://leetcode.com/problems/longest-happy-prefix/) |   |
-| 13 | Seat Arrangement in a SpiceJet Problem - Online OA February ‘22 | [Link](https://leetcode.com/problems/airplane-seat-assignment-probability/) |   |
+| 13 | Seat Arrangement in a SpiceJet Problem - Online OA February ‘22 | [Link](https://leetcode.com/problems/airplane-seat-assignment-probability/) | ✅ |
 | 14 | Deletions to make an array divisible. | [Link](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) |   |
 | 15 | Substrings containing all three Characters | [Link](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) |   |
 

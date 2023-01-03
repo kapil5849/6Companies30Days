@@ -12,7 +12,7 @@
 | 8 | Profitable Path in a Tree. | [Link](https://leetcode.com/problems/most-profitable-path-in-a-tree/) |   |
 | 9 | Number of Pairs satisfying Inequality. | [Link](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) |   |
 | 10 | Shortest Unsorted continuous Subarray | [Link](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) |   |
-| 11 | Number of ways to arrive at a Destination. | [Link](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) |   |
+| 11 | Number of ways to arrive at a Destination. | [Link](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | ✅ |
 | 12 | Longest Happy Prefix | [Link](https://leetcode.com/problems/longest-happy-prefix/) | ✅ |
 | 13 | Seat Arrangement in a SpiceJet Problem - Online OA February ‘22 | [Link](https://leetcode.com/problems/airplane-seat-assignment-probability/) | ✅ |
 | 14 | Deletions to make an array divisible. | [Link](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | ✅ |

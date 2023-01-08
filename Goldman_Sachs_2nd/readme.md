@@ -4,7 +4,7 @@
 | ---------- |:-------:| ------------ | ------ |
 | 1 | Max Points on a Line | [Problem Link](https://leetcode.com/problems/max-points-on-a-line/) | ✅ |
 | 2 | Valid Square | [Problem Link](https://leetcode.com/problems/valid-square/) |  |
-| 3 | Factorial with Trailing Zeroes | [Problem Link](https://leetcode.com/problems/factorial-trailing-zeroes/) |  |
+| 3 | Factorial with Trailing Zeroes | [Problem Link](https://leetcode.com/problems/factorial-trailing-zeroes/) | ✅ |
 | 4 | Number of Boomerangs | [Problem Link](https://leetcode.com/problems/number-of-boomerangs/) |   |
 | 5 | Split Array into Sequences | [Problem Link](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) |   |
 | 6 | Minimum Consecutive Cards to pick up | [Problem Link](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) |   |

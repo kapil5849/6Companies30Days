@@ -1,11 +1,6 @@
 
 // 2151. Maximum Good People Based on Statements...
 
-
-// OJ: https://leetcode.com/contest/weekly-contest-277/problems/maximum-good-people-based-on-statements/
-// Author: github.com/lzl124631x
-// Time: O(2^N * N^2)
-// Space: O(1)
 class Solution {
 public:
     int maximumGood(vector<vector<int>>& A) {

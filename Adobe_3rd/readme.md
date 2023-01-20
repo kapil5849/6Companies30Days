@@ -2,8 +2,8 @@
 
 | Serial No. | Problem | Problem Link | Status |
 | ---------- |:-------:| ------------ | ------ |
-| 1 | Fraction to a recurring Decimal | [Problem Link](https://leetcode.com/problems/fraction-to-recurring-decimal/) |  |
-| 2 | Increasing Triplet Sequence | [Problem Link](https://leetcode.com/problems/increasing-triplet-subsequence/) |  |
+| 1 | Fraction to a recurring Decimal | [Problem Link](https://leetcode.com/problems/fraction-to-recurring-decimal/) | ✅ |
+| 2 | Increasing Triplet Sequence | [Problem Link](https://leetcode.com/problems/increasing-triplet-subsequence/) | ✅ |
 | 3 | Kth smallest in Lexographical Order | [Problem Link](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) |  |
 | 4 | Magical String | [Problem Link](https://leetcode.com/problems/magical-string/) |  |
 | 5 | Non Negative Integers without consecutive ones | [Problem Link](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) |  |

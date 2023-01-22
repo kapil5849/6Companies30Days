@@ -10,7 +10,7 @@
 | 6 | Minimum Consecutive Cards to pick up | [Problem Link](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | ✅ |
 | 7 | Count Good Triplets in Array | [Problem Link](https://leetcode.com/problems/count-good-triplets-in-an-array/) | ✅ |
 | 8 | Maximum Points in Archery Competition | [Problem Link](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | ✅ |
-| 9 | Initial Public Offering | [Problem Link](https://leetcode.com/problems/ipo/) |   |
+| 9 | Initial Public Offering | [Problem Link](https://leetcode.com/problems/ipo/) | ✅ |
 | 10 | People and Secret | [Problem Link](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) |   |
 | 11 | Invalid Transactions in an EMI | [Problem Link](https://leetcode.com/problems/invalid-transactions/) |   |
 | 12 | All elements of a binary Search Tree | [Problem Link](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) |   |

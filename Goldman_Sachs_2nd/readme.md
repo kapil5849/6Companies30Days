@@ -8,7 +8,7 @@
 | 4 | Number of Boomerangs | [Problem Link](https://leetcode.com/problems/number-of-boomerangs/) | ✅ |
 | 5 | Split Array into Sequences | [Problem Link](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | ✅ |
 | 6 | Minimum Consecutive Cards to pick up | [Problem Link](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | ✅ |
-| 7 | Count Good Triplets in Array | [Problem Link](https://leetcode.com/problems/count-good-triplets-in-an-array/) |  |
+| 7 | Count Good Triplets in Array | [Problem Link](https://leetcode.com/problems/count-good-triplets-in-an-array/) | ✅ |
 | 8 | Maximum Points in Archery Competition | [Problem Link](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | ✅ |
 | 9 | Initial Public Offering | [Problem Link](https://leetcode.com/problems/ipo/) |   |
 | 10 | People and Secret | [Problem Link](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) |   |

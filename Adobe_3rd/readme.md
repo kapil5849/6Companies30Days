@@ -13,8 +13,8 @@
 | 9 | Count  nodes equal to average of Subtree | [Problem Link](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | ✅ |
 | 10 | Max matrix Sum | [Problem Link](https://leetcode.com/problems/maximum-matrix-sum/) | ✅ |
 | 11 | Stock Price Fluctuation | [Problem Link](https://leetcode.com/problems/stock-price-fluctuation/) | ✅ |
-| 12 | Shortest Unsorted Continuous Subarray | [Problem Link](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) |  |
-| 13 | Game of Dungeon | [Problem Link](https://leetcode.com/problems/dungeon-game/) |  |
+| 12 | Shortest Unsorted Continuous Subarray | [Problem Link](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | ✅ |
+| 13 | Game of Dungeon | [Problem Link](https://leetcode.com/problems/dungeon-game/) | ✅ |
 | 14 | People aware of secret | [Problem Link](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) |  |
 | 15 | Kth smallest Trimmed number | [Problem Link](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) |  |
 

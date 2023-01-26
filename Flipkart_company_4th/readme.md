@@ -5,8 +5,8 @@
 | 1 | Partition to K Equal Sum Subsets | [Problem Link](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | ✅ |
 | 2 | Sale and Offers at Flipkart BBD | [Problem Link](https://leetcode.com/problems/shopping-offers/) | ✅ |
 | 3 | Remove Zero Sum Consecutive Nodes | [Problem Link](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | ✅ |
-| 4 | Winner of the Game | [Problem Link](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) |  |
-| 5 | Finding the Mountain Array | [Problem Link](https://leetcode.com/problems/find-in-mountain-array/) |  |
+| 4 | Winner of the Game | [Problem Link](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | ✅ |
+| 5 | Finding the Mountain Array | [Problem Link](https://leetcode.com/problems/find-in-mountain-array/) | ✅ |
 | 6 | Number of ways to separate Numbers | [Problem Link](https://leetcode.com/problems/number-of-ways-to-separate-numbers/) |  |
 | 7 | City With the Smallest Number of Neighbors at a Threshold Distance | [Problem Link](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) |  |
 | 8 | Closest Primes in Range | [Problem Link](https://leetcode.com/problems/closest-prime-numbers-in-range/) |  |

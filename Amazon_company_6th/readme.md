@@ -2,7 +2,7 @@
 
 | S. No. | Problem | Problem Link | Status |
 | ------ |:---:| --- | --- |
-| 1 | Shuffle an array | [Link](https://leetcode.com/problems/shuffle-an-array/) | |
+| 1 | Shuffle an array | [Link](https://leetcode.com/problems/shuffle-an-array/) | ✅ |
 | 2 | Cheapest Flights with K stops. | [Link](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | |
 | 3 | Split String into maximum number of Unique substrings. | [Link](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | |
 | 4 | Tweet Count per Frequency | [Link](https://leetcode.com/problems/tweet-counts-per-frequency/) | |

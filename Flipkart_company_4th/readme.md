@@ -12,10 +12,10 @@
 | 8 | Closest Primes in Range | [Problem Link](https://leetcode.com/problems/closest-prime-numbers-in-range/) | ✅ |
 | 9 | Top K frequent Words | [Problem Link](https://leetcode.com/problems/top-k-frequent-words/) | ✅ |
 | 10 | Distant Barcodes | [Problem Link](https://leetcode.com/problems/distant-barcodes/) | ✅ |
-| 11 | The new game to Play | [Problem Link](https://leetcode.com/problems/new-21-game/) |  |
-| 12 | Check If a String Contains All Binary Codes of Size K | [Problem Link](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) |  |
+| 11 | The new game to Play | [Problem Link](https://leetcode.com/problems/new-21-game/) | ✅ |
+| 12 | Check If a String Contains All Binary Codes of Size K | [Problem Link](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | ✅ |
 | 13 | Max Area of Island | [Problem Link](https://leetcode.com/problems/max-area-of-island/https://leetcode.com/problems/max-area-of-island/) |  |
-| 14 | Custom String Sorting | [Problem Link](https://leetcode.com/problems/custom-sort-string/) |  |
+| 14 | Custom String Sorting | [Problem Link](https://leetcode.com/problems/custom-sort-string/) | ✅ |
 | 15 | House Robber - Very Imp | [Problem Link](https://leetcode.com/problems/house-robber-iii/) |  |
 
 

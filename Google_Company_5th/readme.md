@@ -12,7 +12,7 @@
 | 7 | K divisible Array Substrings | [Problem Link](https://leetcode.com/problems/k-divisible-elements-subarrays/) | ✅ |
 | 8 | Random Pick with Weight | [Problem Link](https://leetcode.com/problems/random-pick-with-weight/) | ✅ |
 | 9 | Maximum Numbers of Coins you can get | [Problem Link](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | ✅ |
-| 10 | Network Delay Time | [Problem Link](https://leetcode.com/problems/network-delay-time/) | |
+| 10 | Network Delay Time | [Problem Link](https://leetcode.com/problems/network-delay-time/) | ✅ |
 | 11 | Matrix Block Sum | [Problem Link](https://leetcode.com/problems/matrix-block-sum/) | |
 | 12 | Restore IP Addresses | [Problem Link](https://leetcode.com/problems/restore-ip-addresses/) | |
 | 13 | Swim in rising Water | [Problem Link](https://leetcode.com/problems/swim-in-rising-water/) | |

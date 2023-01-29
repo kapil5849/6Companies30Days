@@ -14,8 +14,8 @@
 | 10 | Number of matching subsequences. | [Link](https://leetcode.com/problems/number-of-matching-subsequences/) | ✅ |
 | 11 | Number of ways to reach a position | [Link](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | ✅ |
 | 12 | Maximum Length of Repeated subarray | [Link](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | ✅ |
-| 13 | Top K frequent words | [Link](https://leetcode.com/problems/top-k-frequent-words/) | |
-| 14 | Last Moment before all ants Fall out. | [Link](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | |
-| 15 | Generate random point in a circle. | [Link](https://leetcode.com/problems/generate-random-point-in-a-circle/) | |
+| 13 | Top K frequent words | [Link](https://leetcode.com/problems/top-k-frequent-words/) | ✅ |
+| 14 | Last Moment before all ants Fall out. | [Link](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | ✅ |
+| 15 | Generate random point in a circle. | [Link](https://leetcode.com/problems/generate-random-point-in-a-circle/) | ✅ |
 
 

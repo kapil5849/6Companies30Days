@@ -14,8 +14,8 @@
 | 9 | Maximum Numbers of Coins you can get | [Problem Link](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | ✅ |
 | 10 | Network Delay Time | [Problem Link](https://leetcode.com/problems/network-delay-time/) | ✅ |
 | 11 | Matrix Block Sum | [Problem Link](https://leetcode.com/problems/matrix-block-sum/) | ✅ |
-| 12 | Restore IP Addresses | [Problem Link](https://leetcode.com/problems/restore-ip-addresses/) | |
-| 13 | Swim in rising Water | [Problem Link](https://leetcode.com/problems/swim-in-rising-water/) | |
+| 12 | Restore IP Addresses | [Problem Link](https://leetcode.com/problems/restore-ip-addresses/) | ✅ |
+| 13 | Swim in rising Water | [Problem Link](https://leetcode.com/problems/swim-in-rising-water/) | ✅ |
 | 14 | Strictly Palindromic Number | [Problem Link](https://leetcode.com/problems/strictly-palindromic-number/) | |
 | 15 | Max Compatibility Score | [Problem Link](https://leetcode.com/problems/maximum-compatibility-score-sum/) | |
 

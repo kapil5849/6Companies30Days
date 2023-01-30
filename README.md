@@ -38,3 +38,14 @@ root
 * Completing questions in these 5 days can be in any format - 3 questions a day or maybe 6 questions a day.
 * You need to start the challenge by putting in a post on LinkedIn, Instagram, Twitter with hashtag `#6Companies30days` and `#ReviseWithArsh` and tag `Arsh Goyal` so that your entry can be tracked and you are eligible for referrals and other benefits.
 * Why wait to start- start it today!
+
+## Companies:
+| S.No | Company | Questions Link | Date | Status |
+| ---- | ------- | -------------- | ---- | ------ |
+| 1    | Microsoft | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 1 Jan - 5 Jan | Completed | 
+| 2    | Goldman Sachs | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 6 Jan - 10 Jan | Completed | 
+| 3    | Adobe | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 11 Jan - 15 Jan | Completed | 
+| 4    | Flipkart | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 16 Jan - 20 Jan | Completed | 
+| 5    | Google | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 21 Jan - 25 Jan | Completed | 
+| 6    | Amazon | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 26 Jan - 30 Jan | Completed |
+
